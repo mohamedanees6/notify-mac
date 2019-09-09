@@ -1,0 +1,6 @@
+function _system_notify_mac() {
+    local notification_command="display notification \"$2\" with title \"$1\""
+    osascript -e "$notification_command"
+}
+
+alias notify-sys="_system_notify_mac $1 $2"
