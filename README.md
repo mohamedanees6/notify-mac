@@ -31,3 +31,9 @@ Oh this simple tool has infinite possibilities, add it to almost anything you wa
 `<Your huge cURL download> ; notify-sys 'Download complete cURL huge.txt'`
 
 And what not!
+
+<h2> Revert back </h2>
+
+Oh Sad. But, Thanks for trying out my little program!
+
+You can remove the changes by typing in `rm ~/.notify-mac` and remove the line `source ~/.notify-mac` from your `~/.bash_profile` using any text editor.
