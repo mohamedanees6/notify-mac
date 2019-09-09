@@ -19,7 +19,7 @@ This causes your bash_profile to include notify-mac everytime it is initialized.
 
 3. Type in `source ~/.bash_profile` to reinitialize all the configured functions and methods.
 
-Test it by typing `notify-mac Hello World`.
+Test it by typing `notify-sys Hello World`.
 
 <h2> Sample Usage </h2>
 
