@@ -4,7 +4,7 @@ A small function to push notifications with ease for Mac.
 
 Ever needed a notification for your build completion running on terminal?
 
-Worry not, this small function would do that with ease! Just append your build command with `|| notify-sys 'Build Complete' 'Your background build has completed'`
+Worry not, this small function would do that with ease! Just append your build command with `; notify-sys 'Build Complete' 'Your background build has completed'`
 
 <h2>How to use? </h2>
 
@@ -26,9 +26,9 @@ Test it by typing `notify-mac Hello World`.
 
 Oh this simple tool has infinite possibilities, add it to almost anything you want to be processed in the background.
 
-`<Your build command here> || notify-sys 'My Local build on project XYZ is Complete'`
+`<Your build command here> ; notify-sys 'My Local build on project XYZ is Complete'`
 
 
-`<Your huge cURL download> || notify-sys 'Download complete cURL huge.txt'`
+`<Your huge cURL download> ; notify-sys 'Download complete cURL huge.txt'`
 
 And what not!
