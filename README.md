@@ -1,6 +1,5 @@
 # notify-mac
 <h2> What is this about? </h2>
-A small function to push notifications with ease for Mac.
 
 Ever needed a notification for your build completion running on terminal?
 
