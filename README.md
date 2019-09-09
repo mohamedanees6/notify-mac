@@ -27,4 +27,8 @@ Test it by typing `notify-mac Hello World`.
 Oh this simple tool has infinite possibilities, add it to almost anything you want to be processed in the background.
 
 `<Your build command here> || notify-sys 'My Local build on project XYZ is Complete'`
+
+
 `<Your huge cURL download> || notify-sys 'Download complete cURL huge.txt'`
+
+And what not!
